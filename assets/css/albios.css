@@ -1,21 +1,3 @@
-/*--------------------------------------------------------------
->>> TABLE OF CONTENTS:
-----------------------------------------------------------------
-# Utility
-# Cards
-# Common
-# Form
-# Navigations
-# Animations
-# Mobile Nav
-# Search Popup
-# Page Header
-# Google Map
-# Client Carousel
---------------------------------------------------------------*/
-/*--------------------------------------------------------------
-# Common
---------------------------------------------------------------*/
 :root {
   --insur-font: "DM Sans", sans-serif;
   --insur-reey-font: "reeyregular";
@@ -437,7 +419,7 @@ ul {
   background-image: url(../images/loader.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 60px auto;
+  background-size: 200px auto;
   width: 100%;
   height: 100%;
 }
@@ -641,7 +623,7 @@ ul {
   float: left;
   display: block;
   padding: 11.2px 0px;
-  margin-right: 45px;
+  /* margin-right: 45px; */
 }
 
 .main-menu__main-menu-box {
